@@ -1,5 +1,15 @@
 # ❤️ Heart Disease Prediction Using Machine Learning
 
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.2-orange?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue?style=flat-square&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.5.1-yellow?style=flat-square&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.4-green?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-teal?style=flat-square)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=flat-square&logo=googlecolab)
+
 ## 👨‍💻 Author
 
 **Kenneth Christian Nathanael**  
