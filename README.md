@@ -3,7 +3,7 @@
 ## 👨‍💻 Author
 
 **Kenneth Christian Nathanael**  
-https://kenchristn.com | Data Analyst & AI Automation Enthusiast
+https://kenchristn.com | Data Analyst, Data Scientist & AI Automation Enthusiast
 
 GitHub: https://github.com/kenchristn
 
